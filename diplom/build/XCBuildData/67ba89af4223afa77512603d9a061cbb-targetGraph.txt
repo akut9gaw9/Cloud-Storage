@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+SwiftAlgorithms in Pods, no dependencies
+Charts in Pods, depends on:
+SwiftAlgorithms in Pods (explicit)
+Pods-diplom in Pods, depends on:
+Charts in Pods (explicit)
+SwiftAlgorithms in Pods (explicit)
